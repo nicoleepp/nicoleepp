@@ -32,6 +32,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+  
+  header:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: nicoleepp
+          template: classic
+          base: header
 
   habits:
     runs-on: ubuntu-latest
