@@ -1,4 +1,4 @@
-Hi there 👋 I'm Nicole. I'm currently at @scribd, focused on building infrastructure and tooling to support engineering productivity.
+Hi there 👋 I'm Nicole. I'm currently at [Scribd](https://github.com/scribd), focused on building infrastructure and tooling to support engineering productivity.
 
 <!--
 **nicoleepp/nicoleepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
